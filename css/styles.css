@@ -33,8 +33,9 @@ h2 {
 button {
      border: 1px;
      background: hsl(0, 0%, 95%);
+     margin-top: 5rem;
      padding-block: .8rem;
-     padding-inline: 1rem;
+     padding-inline: 1.3rem;
      border-radius: 100px;
      cursor: pointer;
 }
